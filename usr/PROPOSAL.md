@@ -46,36 +46,44 @@ To ensure inclusive recognition across all departments and roles, the program wi
 * **Evaluation Criteria:** 100% attendance, zero unapproved late arrivals, no early departures.
 * **KPI Examples:** Time and Attendance system records.
 * **Award Type:** Certificate, Cash Reward, and Wall of Fame feature.
+* **Evaluator(s):** Quality Team Representative
+* **Evaluator(s):** HR Manager & Department Heads
 
 ### 4.2. Safety Champion Award
 * **Eligibility:** All employees, particularly those in operational or manufacturing roles.
 * **Evaluation Criteria:** Proactive identification of hazards, zero safety incidents/near-misses, active participation in safety drills, and championing safe practices among peers.
 * **KPI Examples:** Number of hazard reports submitted, safety audit scores.
 * **Award Type:** Trophy, Certificate, Gift Voucher, and Wall of Fame feature.
+* **Evaluator(s):** Safety Officer & Production/Operations Manager
 
 ### 4.3. Best Suggestion / Innovation Award
 * **Eligibility:** All employees.
 * **Evaluation Criteria:** Submission of actionable ideas that improve processes, reduce costs, enhance quality, or increase efficiency.
 * **KPI Examples:** Estimated cost savings, time saved, process improvement metrics.
 * **Award Type:** Certificate, Cash Reward (percentage of savings or fixed tier), and Wall of Fame feature.
+* **Evaluator(s):** Production/Operations Manager & Department Heads
 
 ### 4.4. Cleanliness & Workplace Discipline Award (5S Champion)
 * **Eligibility:** Teams or individuals.
 * **Evaluation Criteria:** Maintaining a pristine work area, adherence to 5S principles, and strict compliance with company policies and dress codes.
 * **KPI Examples:** 5S audit scores, absence of disciplinary warnings.
 * **Award Type:** Certificate, Gift Voucher, and Wall of Fame feature.
+* **Evaluator(s):** Quality Team Representative & Department Heads
+* **Evaluator(s):** Safety Officer & HR Manager
 
 ### 4.5. Best Team Player Award
 * **Eligibility:** All employees.
 * **Evaluation Criteria:** Willingness to assist colleagues, fostering collaboration, conflict resolution, and contributing to a positive team dynamic.
 * **KPI Examples:** Peer nominations, 360-degree feedback scores.
 * **Award Type:** Certificate, Appreciation Letter, Lunch with Leadership.
+* **Evaluator(s):** Employee Representative & HR Manager
 
 ### 4.6. Productivity Excellence Award
 * **Eligibility:** Production, Operations, and Sales teams.
 * **Evaluation Criteria:** Consistently exceeding production targets, sales quotas, or operational output metrics without compromising quality.
 * **KPI Examples:** Units produced, sales targets achieved, efficiency percentages.
 * **Award Type:** Trophy, Cash Reward, and Wall of Fame feature.
+* **Evaluator(s):** Production/Operations Manager
 
 ### 4.7. Customer Service Excellence Award
 * **Eligibility:** Client-facing and support staff.
@@ -88,6 +96,7 @@ To ensure inclusive recognition across all departments and roles, the program wi
 * **Evaluation Criteria:** Taking charge during crises, mentoring peers, and driving projects to completion without explicit direction.
 * **KPI Examples:** Project success rates, mentorship feedback.
 * **Award Type:** Plaque, Reserved Parking (1 Month), and Wall of Fame feature.
+* **Evaluator(s):** Department Heads & HR Manager
 
 ### 4.9. Quality Excellence Award
 * **Eligibility:** All operational and administrative staff.
@@ -100,6 +109,7 @@ To ensure inclusive recognition across all departments and roles, the program wi
 * **Evaluation Criteria:** Rapid onboarding, immediate positive impact, high learning agility, and exceptional early performance.
 * **KPI Examples:** Probation review scores, milestone achievements.
 * **Award Type:** Certificate, Memento, and Wall of Fame feature.
+* **Evaluator(s):** HR Manager & Department Heads
 
 ---
 
@@ -151,12 +161,12 @@ To provide meaningful recognition, the reward structure includes a mix of moneta
 ### Estimated Quarterly Budget per Winner (Sample)
 | Reward Type | Estimated Cost per Person |
 | :--- | :--- |
-| Framed Certificate | $15.00 |
-| Trophy/Memento | $35.00 |
-| Gift Voucher / Cash | $100.00 |
-| **Total per Awardee** | **$150.00** |
+| Framed Certificate | Rs 1,500 |
+| Trophy/Memento | Rs 3,500 |
+| Gift Voucher / Cash | Rs 10,000 |
+| **Total per Awardee** | **Rs 15,000** |
 
-*(Note: If 10 categories are awarded quarterly, the reward cost is approximately $1,500 per quarter).*
+*(Note: If 10 categories are awarded quarterly, the reward cost is approximately Rs 150,000 per quarter).*
 
 ---
 
@@ -229,18 +239,18 @@ Implementing the Wall of Fame will yield significant organizational dividends:
 
 | Expense Category | Q1 Cost | Q2 Cost | Q3 Cost | Q4 Cost | Total Annual |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Wall Branding & Setup (One-time)** | $1,500 | $0 | $0 | $0 | **$1,500** |
-| **Certificates & Printing** | $150 | $150 | $150 | $150 | **$600** |
-| **Trophies & Mementos** | $350 | $350 | $350 | $350 | **$1,400** |
-| **Gift Vouchers / Cash Rewards** | $1,000 | $1,000 | $1,000 | $1,000 | **$4,000** |
-| **Event Expenses (Snacks, Photography)** | $300 | $300 | $300 | $300 | **$1,200** |
-| **Total Estimated Budget** | **$3,300** | **$1,800** | **$1,800** | **$1,800** | **$8,700** |
+| **Wall Branding & Setup (One-time)** | Rs 150,000 | Rs 0 | Rs 0 | Rs 0 | **Rs 150,000** |
+| **Certificates & Printing** | Rs 15,000 | Rs 15,000 | Rs 15,000 | Rs 15,000 | **Rs 60,000** |
+| **Trophies & Mementos** | Rs 35,000 | Rs 35,000 | Rs 35,000 | Rs 35,000 | **Rs 140,000** |
+| **Gift Vouchers / Cash Rewards** | Rs 100,000 | Rs 100,000 | Rs 100,000 | Rs 100,000 | **Rs 400,000** |
+| **Event Expenses (Snacks, Photography)** | Rs 30,000 | Rs 30,000 | Rs 30,000 | Rs 30,000 | **Rs 120,000** |
+| **Total Estimated Budget** | **Rs 330,000** | **Rs 180,000** | **Rs 180,000** | **Rs 180,000** | **Rs 870,000** |
 
 ---
 
 ## 14. Recommendation and Conclusion
 
-The Human Resources Department strongly recommends the approval and funding of the **Quarterly Wall of Fame Employee Recognition Program**. The projected annual budget of $8,700 is a nominal investment compared to the expected Return on Investment (ROI) derived from increased productivity, reduced turnover costs, and mitigated safety risks.
+The Human Resources Department strongly recommends the approval and funding of the **Quarterly Wall of Fame Employee Recognition Program**. The projected annual budget of Rs 870,000 is a nominal investment compared to the expected Return on Investment (ROI) derived from increased productivity, reduced turnover costs, and mitigated safety risks.
 
 We kindly request management's review and approval by [Date] to commence the implementation timeline for a Q3 launch.
 
